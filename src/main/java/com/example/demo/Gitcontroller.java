@@ -7,6 +7,8 @@ public class Gitcontroller {
 		System.out.println("Test");
 		
 		System.out.println("***********");
+		
+		int a =20;
 	}
 
 }
