@@ -8,7 +8,7 @@ public class Gitcontroller {
 		
 		System.out.println("***********");
 		
-		int a =20;
+		int b =20;
 	}
 
 }
